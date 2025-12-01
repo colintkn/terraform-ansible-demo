@@ -1,0 +1,33 @@
+# Terraform directories
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+*.tfstate.*.backup
+
+# Crash logs
+crash.log
+
+# Exclude override files (optional)
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Exclude CLI configuration files
+.terraformrc
+terraform.rc
+
+# Sensitive variable files (do not commit API keys, passwords, etc.)
+*.auto.tfvars
+
+# OS / Editor files
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+.sentinel
