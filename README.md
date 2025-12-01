@@ -1,15 +1,11 @@
-Have to create the Project and Job Template. 
+Create Project and Job Template. 
 
-Delete
-
-Project
+1. Project
 Name: Webserver
 Git URL: https://github.com/colintkn/aws-ci-workflow.git 
 
-Create credential 
+2. Create credential 
 
-
-Create job template: 
+3. Create job template: 
 Name: Install Webserver
-Inventory: 
 
