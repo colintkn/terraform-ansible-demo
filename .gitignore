@@ -1,5 +1,6 @@
 # Terraform directories
 .terraform/
+.ansible/
 
 # Terraform state files
 *.tfstate
